@@ -1,0 +1,6 @@
+[submodule "backend/Inventario-Papeleria"]
+	path = backend/Inventario-Papeleria
+	url = https://github.com/SebasSoledad07/Inventario-Papeleria.git
+[submodule "frontend/papeleria-frontend"]
+	path = frontend/papeleria-frontend
+	url = https://github.com/SebasSoledad07/papeleria-frontend.git
